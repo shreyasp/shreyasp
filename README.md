@@ -1,5 +1,5 @@
 # Shreyas Patil
-----
+
 *A software engineer with 14 years of experience designing, developing, and maintaining software. Firmly believes in the power of open-source communities to bring transformation through widely accessible technologies that are robust, scalable, and easily deployable to provide the best end-user experience.*
 
 ----
